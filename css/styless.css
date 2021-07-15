@@ -281,7 +281,15 @@ body {
 .happy {
 	position:absolute;
 	left:40%;
-	top:50%;
+	top:49%;
+	opacity: 1;
+	animation: happybirthdays 10s;
+	animation-delay: 0s;
+}
+.happy02 {
+	position:absolute;
+	left:40%;
+	top:20%;
 	opacity: 1;
 	animation: happybirthdays 10s;
 	animation-delay: 0s;
